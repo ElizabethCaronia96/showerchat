@@ -1,0 +1,6 @@
+org/example/showerargument/ShowerChatApplication.class
+org/example/showerargument/controller/Controller.class
+org/example/showerargument/model/ChatEntity.class
+org/example/showerargument/service/ChatService.class
+org/example/showerargument/model/ChatSession.class
+org/example/showerargument/model/AuditRepo.class
